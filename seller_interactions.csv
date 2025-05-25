@@ -1,0 +1,6 @@
+timestamp,call_id,product_name,seller_name,price_queried,negotiated_price_achieved,stock_available,delivery_time_days,seller_notes
+2025-05-25 14:04:07,test_call_12345,Nike Air Jordan 1 Retro High OG 'Chicago Lost & Found',SneakerHeaven,350.0,330.0,True,5,"Brand new, original box."
+2025-05-25 14:04:07,test_call_12345,Nike Air Jordan 1 Retro High OG 'Chicago Lost & Found',KicksRUs,360.0,350.0,True,3,"Fast shipping, collector's condition."
+2025-05-25 14:04:07,test_call_12345,Nike Air Jordan 1 Retro High OG 'Chicago Lost & Found',ResellKingz,340.0,340.0,False,7,"Currently out of stock, restock expected next month."
+2025-05-25 14:04:07,test_call_12345,Nike Air Jordan 1 Retro High OG 'Chicago Lost & Found',SoleSource,375.0,360.0,True,4,Includes authentication certificate.
+2025-05-25 14:04:07,test_call_12345,Nike Air Jordan 1 Retro High OG 'Chicago Lost & Found',LimitedKicksCo,330.0,320.0,True,6,"Slightly used, 9/10 condition."
