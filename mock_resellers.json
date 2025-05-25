@@ -1,0 +1,50 @@
+{
+  "product": "Air Jordan 4 Retro 'Black Cat' - Size 10",
+  "resellers": [
+    {
+      "id": 1,
+      "name": "SneakerHub Premium",
+      "price": 450,
+      "delivery_days": 3,
+      "condition": "Brand New",
+      "authenticity_guarantee": true,
+      "phone": "+1-555-0101"
+    },
+    {
+      "id": 2,
+      "name": "Kicks Marketplace",
+      "price": 425,
+      "delivery_days": 5,
+      "condition": "Brand New",
+      "authenticity_guarantee": true,
+      "phone": "+1-555-0102"
+    },
+    {
+      "id": 3,
+      "name": "Urban Sole Traders",
+      "price": 480,
+      "delivery_days": 2,
+      "condition": "Brand New",
+      "authenticity_guarantee": false,
+      "phone": "+1-555-0103"
+    },
+    {
+      "id": 4,
+      "name": "Elite Sneaker Co",
+      "price": 440,
+      "delivery_days": 4,
+      "condition": "Brand New",
+      "authenticity_guarantee": true,
+      "phone": "+1-555-0104"
+    },
+    {
+      "id": 5,
+      "name": "Rare Kicks Outlet",
+      "price": 395,
+      "delivery_days": 7,
+      "condition": "Excellent",
+      "authenticity_guarantee": true,
+      "phone": "+1-555-0105"
+    }
+  ]
+}
